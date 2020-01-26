@@ -1,0 +1,60 @@
+A table schema with tables like employee, department, employee_to_projects, projects
+
+1) Select employee from departments where max salary of the department is 40k
+2) Select employee assigned to projects
+3) Select employee which have the max salary in a given department
+4) Select employee with second highest salary
+5) Table has two data entries every day for # of apples and oranges sold. write a query to get the difference between the apples… 
+ 
+
+
+Create DDL (table and foreign keys) for several tables in a provided ERD. ERD contains at least one many to many relationship.  
+2 Answers
+Recursively parse a string for a pattern that can be either 1 or 2 characters long.  
+Answer Question
+Perform a merge-sort with SQL only.  
+1 Answer
+Given full authority to "make it work", import a large data set with duplicates into a warehouse while meeting the requirements of a business intelligence designer for query speed.  
+Answer Question
+Query a many to many relationship while not violating the grain of a fact table.  
+
+1) Given a number and a array.
+
+
+2) sql question mostly on case when, joins
+ex: Q3: delete all dupliactes from a table in one query
+
+
+1. Percentage increase in revenue compared to promoted and non-promoted products.
+2. Products classes that has the highest transactions
+3. Count of Customers who bought 2 items type (A,B)
+4. Don't remember
+
+Python:
+1. Average length of letters to words.
+2. Parse an ip address (This is a favourite FB question)
+3. [[A],[A,B],[A,C],[B,D],[C,A]] -- Find the alphabet with highest neighbors? -- (Wasnt able to solve because of time limit but the interviewer was like I get what I want to convey.. I gave her an algo of what I would I have done)  
+
+
+
+SQL: The names of salespeople that have 2 or more orders. When was the earliest and latest order made ? cumulative sum
+, Facebook Friends Tree,  
+
+
+Flatten a nested dictionary?? ( this was the hardest question in coder pad questions ) 
+
+
+
+
+
+
+. Get the states with more the than 100000 population
+2. Count the number of products which sold more than 10 units
+3. Get youngest customer who bought atleast 1 product
+4. Get the areas from which we have the products sold
+
+Python
+1. Count the number of unique words in a sequence?
+2. Print the part of the array of numbers
+3. Check the substring in the string
+4. Question on exceptions  
